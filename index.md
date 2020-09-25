@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ByH@cK5 Repo
 
 You can use the [editor on GitHub](https://github.com/AbelardoRamirez/AbelardoRamirez/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Reactc Native
+## React TypeScript
+### Angular 10
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Task 1
+2. Task 2
 
 **Bold** and _Italic_ and `Code` text
 
